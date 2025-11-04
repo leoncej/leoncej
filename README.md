@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leoncej
-- 👀 I’m interested in Web Development technologies/Front End developing
-- 🌱 I’m currently learning PHP & Laravel
+- 🌱 I’ve reopened this repo for my AI & ML studies
 - 📫 How to reach me: https://uk.linkedin.com/in/jakeleonce
 
 <!---
