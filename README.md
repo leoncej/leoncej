@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leoncej
 - 🌱 I’ve reopened this repo for my AI & ML studies
-- 📄 Each project has an accompanying README detailing the project features and technology stack
+- 📄 Each repo has an accompanying README detailing the project features and technology stack
 - 📫 How to reach me: https://uk.linkedin.com/in/jakeleonce
 
 <!---
